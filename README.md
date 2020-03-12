@@ -17,3 +17,9 @@ Ex 6-Semaphore
 
 
 Ex 7-Banker's Algorithm
+
+
+Ex 8-Memory replacement
+
+
+Ex 9-Paging Techniques

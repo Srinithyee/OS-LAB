@@ -23,3 +23,6 @@ Ex 8-Memory replacement
 
 
 Ex 9-Paging Techniques
+
+
+Ex 10-File Allocation

@@ -26,3 +26,9 @@ Ex 9-Paging Techniques
 
 
 Ex 10-File Allocation
+
+
+Ex 12-File Organisation
+
+
+Ex 13-Threads
